@@ -3,6 +3,17 @@
 A modern web application cloning the Apollo 24/7 doctor consultation platform, built with Next.js, TypeScript, Tailwind CSS, and MongoDB.
 
 
+
+![Screenshot from 2025-05-02 17-40-52](https://github.com/user-attachments/assets/75afd728-dc43-46fc-a84d-39e2c70b77e0)
+
+
+
+
+![Screenshot from 2025-05-02 17-41-00](https://github.com/user-attachments/assets/cb1c517c-e6ef-4a7c-8995-cfe370ed9665)
+
+
+
+
 ## Tech Stack
 
 - **Frontend:** Next.js 14, React, TypeScript, Tailwind CSS
